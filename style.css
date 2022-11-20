@@ -1,0 +1,212 @@
+.body {
+  background-color: #ffffff;
+  flex: none;
+  flex-grow: 0px;
+}
+.dropdown {
+  border-style: none;
+  cursor: pointer;
+  font-family: "Noto Sans", sans-serif;
+}
+.box {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 64px;
+}
+
+.header {
+  margin-top: -815px;
+  font-family: "Noto Sans", sans-serif;
+}
+#logo {
+  padding-left: 80px;
+  padding-top: 43px;
+  padding-bottom: 761px;
+  padding-right: 1307.7px;
+}
+.last3 {
+  font-size: 14px;
+}
+.last3:hover{
+  background-color: black; 
+  color: white; 
+  border-radius: 20px; 
+  text-align: center;
+   height: 20px;
+  animation-duration: 0.3s;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+  cursor: pointer;
+}
+  
+
+
+
+
+
+
+.container {
+  width: 575px;
+  height: 431px;
+  margin-left: 80px;
+  margin-top: 207px;
+}
+
+.doctors {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  color: #0bcfac;
+  width: 161px;
+  margin-top: -5px;
+}
+.findclinics {
+  width: 550px;
+  height: 152px;
+  font-weight: 900;
+  font-size: 36px;
+  font-family: "Noto Sans", sans-serif;
+}
+.offers {
+  width: 399px;
+  height: 126px;
+  margin-left: 0px;
+  margin-top: 32px;
+}
+.topoffers {
+  height: 43px;
+  gap: 67px;
+  align-items: flex-start;
+  flex-direction: row;
+}
+#bulkicon {
+  padding-top: 9px;
+}
+.offer {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  color: #001117;
+  width: 137px;
+  margin-left: 30px;
+  margin-top: -41px;
+}
+.benefit {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 400;
+  font-size: 10px;
+  color: #4e6269;
+  width: 116px;
+  margin-left: 30px;
+  margin-top: -6px;
+}
+#partnership {
+  padding-top: 9px;
+  margin-left: 270px;
+  margin-top: -190px;
+  margin-bottom: 25px;
+}
+
+.offer2 {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  color: #001117;
+  width: 137px;
+  margin-left: 300px;
+  margin-top: -66px;
+}
+.benefit2 {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 400;
+  font-size: 10px;
+  color: #4e6269;
+  width: 116px;
+  margin-left: 300px;
+  margin-top: -6px;
+}
+/*Down Offers*/
+.downoffers {
+  height: 43px;
+  gap: 67px;
+  align-items: flex-start;
+  flex-direction: row;
+  margin-top: 35px;
+}
+/*Contact button*/
+.contact {
+  background-color: #0e63f4;
+  font-family: "Noto Sans", sans-serif;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 14px;
+  margin-left: -5px;
+  margin-bottom: 60px;
+  margin-top: 60px;
+  border: none;
+  border-radius: 4px;
+  width: 189px;
+  height: 46px;
+  gap: 8px;
+  padding-top: 12px;
+  padding-left: 40px;
+  padding-bottom: 12px;
+  padding-right: 68px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+  cursor: pointer;
+  transition: ease-in-out;
+  transition-duration: 0.4s;
+}
+.contact1:hover {
+  background-color: black;
+  animation-duration: 0.4s;
+}
+#arrow {
+  margin-top: -93px;
+  margin-bottom: 110px;
+  margin-left: 120px;
+} 
+
+
+/*Doctors Image*/ 
+.docimage{
+  margin-left: 800px;
+  margin-top: -650px;
+} 
+
+.docimage1{
+  border-radius: 350px;
+}
+.container1{
+  margin-left: 690px;
+  margin-top: -450px;
+}
+
+.footer{
+  margin-top: 300px; 
+  margin-left: -780px;
+  width: 1520px; 
+  border: 2px solid black;
+  background-color: black;
+  color: white;
+  height: 50px;
+  font-family: "Noto Sans", sans-serif;
+}
+
+.copywright{
+  margin-left: 1300px;
+} 
+.footercontents{
+  display: flex; 
+  flex-direction: row; 
+  gap: 100px;
+  margin-left: 200px;
+  margin-top: -55.5px;
+}
